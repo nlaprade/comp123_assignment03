@@ -1,0 +1,16 @@
+C:\Users\lapra\source\repos\Assignment03_COMP123\Assignment03_COMP123\obj\Debug\net5.0\Assignment03_COMP123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapra\source\repos\Assignment03_COMP123\Assignment03_COMP123\obj\Debug\net5.0\Assignment03_COMP123.AssemblyInfoInputs.cache
+C:\Users\lapra\source\repos\Assignment03_COMP123\Assignment03_COMP123\obj\Debug\net5.0\Assignment03_COMP123.AssemblyInfo.cs
+C:\Users\lapra\source\repos\Assignment03_COMP123\Assignment03_COMP123\obj\Debug\net5.0\Assignment03_COMP123.csproj.CoreCompileInputs.cache
+C:\Users\lapra\source\repos\Assignment03_COMP123\Assignment03_COMP123\bin\Debug\net5.0\Assignment03_COMP123.exe
+C:\Users\lapra\source\repos\Assignment03_COMP123\Assignment03_COMP123\bin\Debug\net5.0\Assignment03_COMP123.deps.json
+C:\Users\lapra\source\repos\Assignment03_COMP123\Assignment03_COMP123\bin\Debug\net5.0\Assignment03_COMP123.runtimeconfig.json
+C:\Users\lapra\source\repos\Assignment03_COMP123\Assignment03_COMP123\bin\Debug\net5.0\Assignment03_COMP123.runtimeconfig.dev.json
+C:\Users\lapra\source\repos\Assignment03_COMP123\Assignment03_COMP123\bin\Debug\net5.0\Assignment03_COMP123.dll
+C:\Users\lapra\source\repos\Assignment03_COMP123\Assignment03_COMP123\bin\Debug\net5.0\ref\Assignment03_COMP123.dll
+C:\Users\lapra\source\repos\Assignment03_COMP123\Assignment03_COMP123\bin\Debug\net5.0\Assignment03_COMP123.pdb
+C:\Users\lapra\source\repos\Assignment03_COMP123\Assignment03_COMP123\obj\Debug\net5.0\Assignment03_COMP123.dll
+C:\Users\lapra\source\repos\Assignment03_COMP123\Assignment03_COMP123\obj\Debug\net5.0\ref\Assignment03_COMP123.dll
+C:\Users\lapra\source\repos\Assignment03_COMP123\Assignment03_COMP123\obj\Debug\net5.0\Assignment03_COMP123.pdb
+C:\Users\lapra\source\repos\Assignment03_COMP123\Assignment03_COMP123\obj\Debug\net5.0\Assignment03_COMP123.genruntimeconfig.cache
+C:\Users\lapra\source\repos\Assignment03_COMP123\Assignment03_COMP123\obj\Debug\net5.0\Assignment03_COMP123.csproj.AssemblyReference.cache

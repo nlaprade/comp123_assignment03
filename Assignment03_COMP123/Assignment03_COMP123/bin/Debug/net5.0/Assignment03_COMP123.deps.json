@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Assignment03_COMP123/1.0.0": {
+        "runtime": {
+          "Assignment03_COMP123.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment03_COMP123/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
